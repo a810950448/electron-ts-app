@@ -1,0 +1,13 @@
+{
+  "overrides": [
+    {
+      "files": [".babelrc", ".eslintrc", ".stylelintrc"],
+      "options": {
+        "parser": "json"
+      }
+    }
+  ],
+  "singleQuote": true,
+  "semi": false,
+  "printWidth": 90
+}
